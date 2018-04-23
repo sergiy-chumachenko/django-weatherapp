@@ -1,7 +1,10 @@
 attrs==17.4.0
+certifi==2018.4.16
+chardet==3.0.4
 coverage==4.5.1
 Django==2.0.3
 Faker==0.8.8
+idna==2.6
 Markdown==2.6.11
 mixer==6.0.1
 more-itertools==4.1.0
@@ -14,5 +17,7 @@ pytest-cov==2.5.1
 pytest-django==3.1.2
 python-dateutil==2.7.2
 pytz==2018.3
+requests==2.18.4
 six==1.11.0
 text-unidecode==1.2
+urllib3==1.22
