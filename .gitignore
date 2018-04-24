@@ -103,3 +103,4 @@ tests/.coverage
 build/
 tests/report/
 .idea/
+migrations/
